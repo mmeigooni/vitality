@@ -1,0 +1,15 @@
+/* Keep this top part as a standard. */
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+/*Make your custom css changes below*/
+
+h1 {
+    color: blue;
+}
+
